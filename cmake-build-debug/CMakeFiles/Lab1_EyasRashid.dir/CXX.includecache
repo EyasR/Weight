@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Lab1_EyasRashid/main.cpp
+iostream
+-
+weight.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Lab1_EyasRashid/weight.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Lab1_EyasRashid/weight.cpp
+iostream
+-
+weight.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Lab1_EyasRashid/weight.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Lab1_EyasRashid/weight.h
+iostream
+-
+
